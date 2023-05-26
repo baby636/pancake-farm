@@ -26,6 +26,6 @@
     "solidity-coverage": "^0.7.13",
     "truffle-hdwallet-provider": "^1.0.17",
     "truffle-plugin-verify": "^0.4.0",
-    "web3": "^1.3.0"
+    "web3": "^1.3.6"
   }
 }
