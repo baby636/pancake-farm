@@ -9,7 +9,7 @@
     "coverage": "npx builder coverage"
   },
   "dependencies": {
-    "@openzeppelin/test-helpers": "^0.5.6",
+    "@openzeppelin/test-helpers": "^0.5.16",
     "@pancakeswap/pancake-swap-lib": "^0.0.1",
     "truffle": "^5.1.58",
     "truffle-flattener": "^1.4.4"
